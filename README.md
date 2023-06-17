@@ -22,5 +22,5 @@
 * **SUM, MAX, MIN** : 6/6
 * **GROUP BY** : 0/14
 * **IS NULL** : 0/5
-* **JOIN** : 0/10
+* **JOIN** : 6/10
 * **String, Date** : 0/10
